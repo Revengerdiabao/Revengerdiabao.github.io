@@ -1,0 +1,8 @@
+{
+  "actions": [
+    { "type": "moveTo", "x": 900, "y": 500, "duration": 0.2 },
+    { "type": "click", "button": "left" },
+    { "type": "type", "text": "Xin chao tu n8n + pyautogui", "interval": 0.03 },
+    { "type": "press", "key": "enter" }
+  ]
+}
