@@ -30,7 +30,3 @@ const CONFIG = {
 # Revengerdiabao.github.bio
 # Revengerdiabao.github.bio
 # Revengerdiabao.github.bio
-
-## Automation n8n + pyautogui
-
-Tai lieu va file mau nam trong thu muc `automation/README.md`.
